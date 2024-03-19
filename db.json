@@ -1,0 +1,93 @@
+{
+  "User": [
+    {
+      "username": "adam",
+      "email": "adam@gmail.com",
+      "Password": "password",
+      "id": "3fe1"
+    },
+    {
+      "id": "ddf0",
+      "username": "a",
+      "email": "aa@g.com",
+      "password": "111"
+    },
+    {
+      "id": "307a",
+      "username": "abc",
+      "email": "abc@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "94ab",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "000"
+    },
+    {
+      "id": "c6ca",
+      "username": "admin",
+      "email": "admin@gm.com",
+      "password": "admin"
+    },
+    {
+      "id": "e076",
+      "username": "abi",
+      "email": "a@gm.com",
+      "password": "1234"
+    },
+    {
+      "id": "6f2c",
+      "username": "ami",
+      "email": "ami@gmail.com",
+      "password": "121"
+    },
+    {
+      "id": "e03a",
+      "username": "lavvanya",
+      "email": "lavanayv@gmail.com",
+      "password": "12234"
+    },
+    {
+      "id": "b243",
+      "username": "sam",
+      "email": "sam@gmail.com",
+      "password": "012"
+    }
+  ],
+  "tickets": [
+    {
+      "subject": "sample",
+      "description": "sample1",
+      "id": "2d3e"
+    }
+  ],
+  "customer": [
+    {
+      "id": "123",
+      "name": "lavv",
+      "email": "lavv@g.com",
+      "phone": "123"
+    },
+    {
+      "id": "5",
+      "name": "sample",
+      "email": "sample@gmail.com",
+      "phone": "1234"
+    },
+    {
+      "id": "5",
+      "name": "custom",
+      "email": "custom@gm.com",
+      "phone": "234"
+    }
+  ],
+  "support": [
+    {
+      "ticket id": "123",
+      "subject": "sample",
+      "description": "sample",
+      "id": "e84d"
+    }
+  ]
+}

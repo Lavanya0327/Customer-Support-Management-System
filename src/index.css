@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://img.freepik.com/free-photo/abstract-digital-grid-black-background_53876-97647.jpg?size=626&ext=jpg&ga=GA1.1.735520172.1710720000&semt=ais");
+  background-size: cover;
+  background-position: center;
+  font-family: Arial, sans-serif; 
+  color:white;
+}
+h1 {
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 25px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.no-underline {
+  text-decoration: none;
+}
+
+h3 {
+  text-align: center;
+}
+
+h2, h3, h4 {
+  font-weight: bold; 
+  text-decoration: underline; 
+}
+
+
+h2, h3, h4 {
+  text-align: left; 
+}
+
+.navbar {
+  background-color: rgb(46, 110, 127);
+  padding: 20px 17px;
+  text-align: center;
+}
+
+.navbar a {
+  text-decoration: none;
+  margin-right: 30px;
+  color: white;
+}
+
+.navbar a.active {
+  background-color: white;
+  color: black;
+  padding: 10px;
+}
+form {
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: rgb(46, 110, 127);
+  padding: 40px;
+  width: 250px;
+  margin: 100px auto; 
+}
+
+input, label, button {
+  display: block; 
+  margin-bottom: 15px; 
+}
+
+input {
+  height: 25px;
+  border-radius: 5px;
+}
+
+label {
+  color: rgb(255, 255, 255);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+button {
+  border-radius: 10px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  padding: 10px 20px; 
+  margin-left: auto; 
+  margin-right: auto; 
+}
+
+a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+
+.content {
+  flex: 1;
+}
+
+.image {
+  margin-left: 20px;
+}
+
+.heading-container {
+  text-align: center;
+}
+
+.heading {
+  font-size: 24px;
+}
+
+
+/* About */
+.aboutcontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.choosecontent {
+  max-width: 600px;
+}
+
+.choosecontent h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.choosecontent p {
+  margin-bottom: 20px;
+}
+
+hr {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+.keyfeature {
+  display: flex;
+  align-items: flex-start; 
+}
+
+.keyfeature h3, .keyfeature h4 {
+  font-weight: bold;
+  margin-right: 10px; 
+}
